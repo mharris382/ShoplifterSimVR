@@ -1,0 +1,9 @@
+[submodule "ShoplifterSimulator/Plugins/ProceduralShelfClutter"]
+	path = ShoplifterSimulator/Plugins/ProceduralShelfClutter
+	url = https://github.com/mharris382/ProceduralShelfClutter.git
+[submodule "ShoplifterSimulator/Plugins/PCGUtils"]
+	path = ShoplifterSimulator/Plugins/PCGUtils
+	url = https://github.com/mharris382/PCGUtils.git
+[submodule "ShoplifterSimulator/Plugins/PCGRuntimeUtilities"]
+	path = ShoplifterSimulator/Plugins/PCGRuntimeUtilities
+	url = https://github.com/mharris382/PCGRuntimeUtilities.git
