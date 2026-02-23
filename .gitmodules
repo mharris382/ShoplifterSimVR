@@ -7,3 +7,7 @@
 [submodule "ShoplifterSimulator/Plugins/PCGRuntimeUtilities"]
 	path = ShoplifterSimulator/Plugins/PCGRuntimeUtilities
 	url = https://github.com/mharris382/PCGRuntimeUtilities.git
+[submodule "ShoplifterSimulator/Plugins/ArchitectCore"]
+	path = ShoplifterSimulator/Plugins/ArchitectCore
+	url = https://github.com/mharris382/ArchitectCore.git
+	branch = 5.7
